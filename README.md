@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to my profile  🙋‍♂️
 
-<!--
-**keyzon2/keyzon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Keyzon
 
-Here are some ideas to get you started:
+- Im on [Alura](https://www.alura.com.br)
+- Im learning Javascripth 
+- I'll use this space to organize my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**If you want to talk with me, use this G-mail📫**
+
+00001113360325sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/klnM7tH4y6UAAAAd/ken-kaneki-tokyo-ghoul.gif)
