@@ -1,6 +1,6 @@
 ## Welcome to my profile  🙋‍♂️
 
-My name is Keyzon
+My name is *Keyzon*
 
 - Im on [Alura](https://www.alura.com.br)
 - Im learning Javascripth 
